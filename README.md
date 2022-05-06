@@ -3,7 +3,7 @@
 
 - 🔭 Me encuentro trabajando actualmente en la empresa Incluit **en un proyecto de APIS**
 
-- 🌱 Me encuentro actualmente estudiando y capacitándome **con diferentes cursos online y una tecnicatura en diseño de software**
+- 🌱 Estoy en un proceso continuo de aprendizaje y capacitación **con diferentes cursos online y una tecnicatura en diseño de software**
 
 - 👨‍💻 Puedes ver todos mis proyectos aquí [www.alejandroibz.com](www.alejandroibz.com)
 
